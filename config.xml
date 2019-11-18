@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.rabotavoditelemvtaxiru.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. ya-taxi.me</name>
+    <name>ya-taxi.me</name>
 
     <description>
         Работа водителем в такси на своем автомобиле
