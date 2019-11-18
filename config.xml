@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.rabotavoditelemvtaxiru.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. ya-taxi.me</name>
 
@@ -40,17 +40,17 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/c4232fa680a809c62f605b160a0d1dc4.png" density="ldpi" />
-        <icon src="res/android/icon/5de991c8a025397de714eec4d38b4121.png" density="mdpi" />
-        <icon src="res/android/icon/cb4e1a602264908101d3c0cd3b5f27ca.png" density="hdpi" />
-        <icon src="res/android/icon/b6fb94a01bd23d44994ce59afeaade05.png" density="xhdpi" />
-        <icon src="res/android/icon/ba202381f58caea594858e2958bb4e93.png" density="xxhdpi" />
-        <icon src="res/android/icon/f80e3b88eed436efe10d863899375fa6.png" density="xxxhdpi" />
+        <icon src="res/android/icon/cd6bb397b19b039fa04c43a541c4fcdb.png" density="ldpi" />
+        <icon src="res/android/icon/60deffa810b106791b287d3a92fae7f3.png" density="mdpi" />
+        <icon src="res/android/icon/88f848237d88e4bda1691e920acf9bb7.png" density="hdpi" />
+        <icon src="res/android/icon/f466683679d87433cfc299f825ffd67e.png" density="xhdpi" />
+        <icon src="res/android/icon/895f25c78a97656d8265e56311799eed.png" density="xxhdpi" />
+        <icon src="res/android/icon/34c1c63f13445aacec21af70b1e89194.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/1a567bb95ae349df3689a4c954dfaa92.png" density="port-hdpi"/>
-        <splash src="res/android/screen/68862a60af5762e57def218f18309ef6.png" density="port-ldpi"/>
-        <splash src="res/android/screen/e59035bd7a7e9a561fc04596d1909b1e.png" density="port-mdpi"/>
-        <splash src="res/android/screen/7a3b0a782bb138699eb80f7e5f0e221e.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/6b5d68f87a2c1e2c690ae315ec75629f.png" density="port-hdpi"/>
+        <splash src="res/android/screen/ef6326d79e28a47dcc8b095067cb59ec.png" density="port-ldpi"/>
+        <splash src="res/android/screen/2b251c32a54794ec3dd05b275fd7e630.png" density="port-mdpi"/>
+        <splash src="res/android/screen/662a70a26768c60a0d2112b9caa49c89.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
