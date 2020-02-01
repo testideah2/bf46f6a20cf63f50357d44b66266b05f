@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ru.rabotavoditelemvtaxiru.app"
+        id          = "rus.rabotanasvoeymashine.app"
         versionCode = "10"
-        version     = "1.6.0">
+        version     = "1.7.0">
 
-    <name>Работа в такси на своем авто</name>
+    <name>Работа на своей машине</name>
 
     <description>
-        Работа водителем в такси на своем автомобиле
+        Работа таксистом на своей машине
     </description>
 
     <author>Tadapp</author>
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
+    <preference name="SplashScreenSpinnerColor" value="#2D86E5" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
